@@ -10,8 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@coinbase/onchainkit": "^0.38.19",
     "@tailwindcss/vite": "^4.1.12",
+    "ethers": "^6.15.0",
+    "lucide-react": "^0.541.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "tailwindcss": "^4.1.12"
